@@ -30,8 +30,7 @@ README.md: Instructions for running the project.
 
 Installation
 
-Clone the repository : git clone https://github.com/your-repo/churn-prediction.git
-cd churn-prediction
+Clone the repository : https://github.com/Vyom321/Churn-prediction-
 
 Install dependencies:
 
